@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Bar"
+        android:id="@+id/bar">
+        <menu>
+            <item android:id="@+id/fullast"
+                android:title="Vem är fullast just nu?">
+            </item>
+            <item android:id="@+id/utbud"
+                android:title="Dryckesutbud">
+            </item>
+            <item android:id="@+id/location"
+                android:title="Var är bärbaren?">
+            </item>
+            <item android:id="@+id/baradmin"
+                android:title="Admin">
+            </item>
+        </menu>
+    </item>
+</menu>
